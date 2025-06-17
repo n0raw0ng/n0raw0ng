@@ -1,16 +1,18 @@
-## Hi there 👋
+🎮 Final-year Bachelor of Information Technology (Hons) student majoring in Game Design with an extension in Cybersecurity, currently studying at Taylor’s University (Dual Award with University of the West England). Passionate about building innovative digital solutions, immersive games, and secure systems.
 
-<!--
-**n0raw0ng/n0raw0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Experienced in: 
 
-Here are some ideas to get you started:
+- Game development (Unity, C#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- UI/UX design (Figma)
+
+- Web & mobile development (Java, HTML, CSS, Firebase)
+
+- Cybersecurity fundamentals (Kali Linux, Ubuntu)
+
+- Augmented reality, real-time database integration, and system prototyping
+
+🌱 Currently open to internships and eager to contribute to teams focusing on software development, game design, and cybersecurity.
+
+📫 Reach me at norawong177@gmail.com
+
