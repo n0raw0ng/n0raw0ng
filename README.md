@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=45FF31&center=true&vCenter=true&width=750&background=00000000&lines=Hello.+I'm+Noratika.+Nice+to+see+you+here." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=45FF31&center=true&vCenter=true&width=800&background=00000000&lines=Hello.+I'm+Noratika.+Nice+to+see+you+here." alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="mailto:norawong177@gmail.com">
     <img src="https://img.shields.io/badge/Email-norawong177@gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/noratika-wong-b04568251/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
